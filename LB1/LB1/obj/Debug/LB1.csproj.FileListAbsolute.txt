@@ -1,0 +1,7 @@
+E:\МДК\LB1\LB1\bin\Debug\LB1.exe.config
+E:\МДК\LB1\LB1\bin\Debug\LB1.exe
+E:\МДК\LB1\LB1\bin\Debug\LB1.pdb
+E:\МДК\LB1\LB1\obj\Debug\LB1.csproj.AssemblyReference.cache
+E:\МДК\LB1\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+E:\МДК\LB1\LB1\obj\Debug\LB1.exe
+E:\МДК\LB1\LB1\obj\Debug\LB1.pdb
